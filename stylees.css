@@ -37,7 +37,6 @@ nav {
 .list {
     display: flex;
     list-style: none;
-    /* justify-content: center; */
     align-items: center;
 }
 
@@ -149,8 +148,6 @@ nav {
     background: #FFF;
 }
 
-/* section -2 styles start */
-
 .bnr2 {
     display: flex;
     padding: 0 140px;
@@ -212,8 +209,6 @@ nav {
     font-weight: 700;
     margin-top: 0px;
 }
-
-/* online game styles start */
 
 .online-img {
     text-align: center;
@@ -280,8 +275,6 @@ nav {
 
 }
 
-/* play instantly styles */
-
 .play {
     display: flex;
     align-items: center;
@@ -339,8 +332,6 @@ nav {
     border-radius: 8px;
     border: 10px solid #FFF;
 }
-
-/* career styles start */
 
 .section-career {
     background-color: #F948B2;
@@ -402,8 +393,6 @@ nav {
     font-weight: 700;
 }
 
-/* games styles start */
-
 .games {
     height: 300px;
     margin-bottom: 10px;
@@ -436,8 +425,6 @@ nav {
     border-radius: 45px;
     text-align: center;
 }
-
-/* foot styles */
 
 .footer {
     background: #0B0223;
@@ -495,12 +482,9 @@ nav {
     text-align: center;
     color: rgba(255, 255, 255, 0.60);
     font-size: 13px;
-    /* margin: ; */
     font-weight: 100;
 }
 
-
-/*for  mobile  screen */
 
 @media screen and (max-width:576px) {
 
